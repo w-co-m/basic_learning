@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\428.党费计算\FileName.cpp(7,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\428.党费计算\FileName.cpp(11,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\428.党费计算\FileName.cpp(15,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\428.党费计算\FileName.cpp(19,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  428.党费计算.vcxproj -> C:\Users\27530\OneDrive\Desktop\C\OJ题目\428.党费计算\x64\Debug\428.党费计算.exe

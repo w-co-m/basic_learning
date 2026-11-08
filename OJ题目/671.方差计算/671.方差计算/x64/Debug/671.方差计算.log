@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\671.方差计算\FileName.cpp(16,12): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\671.方差计算\FileName.cpp(19,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  671.方差计算.vcxproj -> C:\Users\27530\OneDrive\Desktop\C\OJ题目\671.方差计算\x64\Debug\671.方差计算.exe

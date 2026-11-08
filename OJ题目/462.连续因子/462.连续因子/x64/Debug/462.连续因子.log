@@ -1,0 +1,14 @@
+﻿  FileName.cpp
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(32,24): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+      C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(32,24):
+      请考虑在格式字符串中使用“%d”
+      C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(32,24):
+      请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(35,24): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+      C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(35,24):
+      请考虑在格式字符串中使用“%d”
+      C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\FileName.cpp(35,24):
+      请考虑在格式字符串中使用“%I32d”
+  
+  462.连续因子.vcxproj -> C:\Users\27530\OneDrive\Desktop\C\OJ题目\462.连续因子\x64\Debug\462.连续因子.exe

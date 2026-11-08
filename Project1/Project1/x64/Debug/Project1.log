@@ -1,0 +1,4 @@
+﻿  pingjunshu.cpp
+C:\Users\27530\OneDrive\Desktop\C\Project1\pingjunshu.cpp(58,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\27530\OneDrive\Desktop\C\Project1\pingjunshu.cpp(65,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\27530\OneDrive\Desktop\C\Project1\pingjunshu.cpp(293,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.

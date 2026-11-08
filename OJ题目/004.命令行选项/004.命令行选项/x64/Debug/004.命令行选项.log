@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\004.命令行选项\FileName.cpp(44,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\004.命令行选项\FileName.cpp(56,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\004.命令行选项\FileName.cpp(57,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\27530\OneDrive\Desktop\C\OJ题目\004.命令行选项\FileName.cpp(58,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

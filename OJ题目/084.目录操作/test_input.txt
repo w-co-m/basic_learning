@@ -1,0 +1,6 @@
+/data2/data3/d7
+cd ..
+cd /
+cd /data1/d6
+cd d4/d5
+pwd

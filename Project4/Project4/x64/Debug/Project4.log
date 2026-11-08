@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\27530\OneDrive\Desktop\C.VS\Project4\FileName.cpp(6,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\Users\27530\OneDrive\Desktop\C.VS\Project4\FileName.cpp(6,13):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\Users\27530\OneDrive\Desktop\C.VS\Project4\FileName.cpp(6,13):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      C:\Users\27530\OneDrive\Desktop\C.VS\Project4\FileName.cpp(6,13):
+      此参数用作缓冲区大小
+  
+  Project4.vcxproj -> C:\Users\27530\OneDrive\Desktop\C.VS\Project4\x64\Debug\Project4.exe
