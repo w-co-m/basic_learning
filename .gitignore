@@ -1,0 +1,13 @@
+*.zip
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.pyc
+__pycache__/
+.vs/
+.env
+.env.*
